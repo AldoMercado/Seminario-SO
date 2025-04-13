@@ -1,0 +1,4 @@
+Hola Aldo, ¿cómo estás?
+Hoy aprenderás scripting con bash.
+grep es muy útil para buscar.
+Este archivo es de prueba.
